@@ -1,0 +1,11 @@
+Mac:
+Common:
+cmd-d delete selected lines
+cmd-shift-d duplecate lines
+
+ctrl-uparrow 与上一行互换
+ctrl-downarrow 与下一行互换
+ctrl-enter 光标下面新建一行
+ctrl-shift-enter 光标上面新建一行
+ctrl-tab switch tabs
+ctrl-| tooggle tree
