@@ -1,0 +1,4 @@
+1.Package-AutosaveXXX
+2.hide hidden directories and files:Package-"tree view"-Hide ignored Names
+3.install package-"project manager":list saved projects and can open them.
+4.install package-"atom-live-server":easy to run a local server to develp html projects
