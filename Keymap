@@ -5,17 +5,22 @@ cmd-d delete selected lines
 cmd-shift-d duplecate lines
 cmd-right move to end of the line
 cmd-left move to start of the line
-cmd L 选取1行，继续按，会继续选取下一行
+cmd-L 选取1行，继续按，会继续选取下一行
 cmd-delete 删除当前字符到行首
 cmd-shift-delete 删除当前字符到行尾
-全局查找 cmd shift f
+cmd-shift-f 全局查找
+cmd-z undo
+cmd-shift-z redo
+cmd-f find
+cmd-r replace
 
 Atom:
-ctrl-uparrow 与上一行互换
-ctrl-downarrow 与下一行互换
+ctrl-uparrow move line up
+ctrl-downarrow move line down
 ctrl-enter 光标下面新建一行
 ctrl-tab switch tabs
 ctrl-| tooggle tree
+
 Not very common:
 搜索文件 cmd p
 打开一个目录 cmd o
@@ -25,9 +30,16 @@ ctrl-shift-enter 光标上面新建一行
 IntelliJ:
 cmd-e extend selection
 cmd-shift-e shrink selection
+cmd-ctrl-f format
+
+cmd-shift-uparrow move line up
+cmd-shift-downarrow move line down
 alt-t open terminal
 alt-m open Maven Projects
 alt-r run
 alt-d debug
-
-
+menu-navigate:
+cmd-alt-leftarrow back
+cmd-alt-rightarrow forward
+cmd-ctrl-leftarrow last edit location
+cmd-ctrl-rightarrow next edit location
