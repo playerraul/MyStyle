@@ -43,3 +43,9 @@ cmd-alt-leftarrow back
 cmd-alt-rightarrow forward
 cmd-ctrl-leftarrow last edit location
 cmd-ctrl-rightarrow next edit location
+
+phpstorm:
+cmd-n find class
+cmd-shift-n find file
+cmd-f find
+cmd-r replace
