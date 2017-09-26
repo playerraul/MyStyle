@@ -49,3 +49,4 @@ cmd-n find class
 cmd-shift-n find file
 cmd-f find
 cmd-r replace
+alt-f12 open internal terminal
