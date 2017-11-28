@@ -50,3 +50,4 @@ cmd-shift-n find file
 cmd-f find
 cmd-r replace
 alt-f12 open internal terminal
+shift-f6 rename multiple variables
