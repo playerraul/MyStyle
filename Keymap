@@ -55,4 +55,9 @@ shift-f6 rename multiple variables
 visual studio code:
 cmd-up move line up
 cmd-down move line down
-
+cmd-e extend selection
+cmd-shift-e shrink selection
+cmd-d delete selected lines
+cmd-right move to end of the line
+cmd-left move to start of the line
+cmd-shift-d duplecate lines
