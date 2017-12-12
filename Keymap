@@ -51,6 +51,10 @@ cmd-f find
 cmd-r replace
 alt-f12 open internal terminal
 shift-f6 rename multiple variables
+cmd-leftarrow back
+cmd-rightarrow forward
+cmd-shift-leftarrow last edit location
+cmd-shift-rightarrow next edit location
 
 visual studio code:
 cmd-up move line up
