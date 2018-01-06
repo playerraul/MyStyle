@@ -1,10 +1,14 @@
-My style: alt+abcd... means open some window or tools.
-Mac:Atom & IntelliJ
+My style: alt+abcd... means open some window or tools(my convention).
+Mac:Atom & IntelliJ & phpstorm & code
 Common:
 cmd-d delete selected lines
 cmd-shift-d duplecate lines
-cmd-right move to end of the line
-cmd-left move to start of the line
+cmd-right forward
+cmd-left back
+cmd-up move line up
+cmd-down move line down
+cmd-e extend selection
+cmd-shift-e shrink selection
 cmd-L 选取1行，继续按，会继续选取下一行
 cmd-delete 删除当前字符到行首
 cmd-shift-delete 删除当前字符到行尾
@@ -13,14 +17,12 @@ cmd-z undo
 cmd-shift-z redo
 cmd-f find
 cmd-r replace
+ctrl-` open terminal
 
 Atom:
-ctrl-uparrow move line up
-ctrl-downarrow move line down
 ctrl-enter 光标下面新建一行
 ctrl-tab switch tabs
 ctrl-| tooggle tree
-
 Not very common:
 搜索文件 cmd p
 打开一个目录 cmd o
@@ -31,7 +33,6 @@ IntelliJ:
 cmd-e extend selection
 cmd-shift-e shrink selection
 cmd-ctrl-f format
-
 cmd-shift-uparrow move line up
 cmd-shift-downarrow move line down
 alt-t open terminal
@@ -47,21 +48,11 @@ cmd-ctrl-rightarrow next edit location
 phpstorm:
 cmd-n find class
 cmd-shift-n find file
-cmd-f find
-cmd-r replace
 alt-f12 open internal terminal
 shift-f6 rename multiple variables
-cmd-leftarrow back
-cmd-rightarrow forward
-cmd-shift-leftarrow last edit location
-cmd-shift-rightarrow next edit location
+cmd-shift-left last edit location
+cmd-shift-right next edit location
 
 visual studio code:
-cmd-up move line up
-cmd-down move line down
-cmd-e extend selection
-cmd-shift-e shrink selection
-cmd-d delete selected lines
 cmd-right move to end of the line
 cmd-left move to start of the line
-cmd-shift-d duplecate lines
