@@ -33,9 +33,6 @@ IntelliJ:
 cmd-e extend selection
 cmd-shift-e shrink selection
 cmd-ctrl-f format
-cmd-shift-uparrow move line up
-cmd-shift-downarrow move line down
-alt-t open terminal
 alt-m open Maven Projects
 alt-r run
 alt-d debug
