@@ -31,7 +31,7 @@ ctrl-shift-enter 光标上面新建一行
 
 IntelliJ:
 cmd-ctrl-f format
-alt-m open Maven Projects
+ctrl-m open Maven Projects
 alt-r run
 alt-d debug
 menu-navigate:
