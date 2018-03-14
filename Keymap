@@ -30,15 +30,11 @@ Not very common:
 ctrl-shift-enter 光标上面新建一行
 
 IntelliJ:
-cmd-e extend selection
-cmd-shift-e shrink selection
 cmd-ctrl-f format
 alt-m open Maven Projects
 alt-r run
 alt-d debug
 menu-navigate:
-cmd-alt-leftarrow back
-cmd-alt-rightarrow forward
 cmd-ctrl-leftarrow last edit location
 cmd-ctrl-rightarrow next edit location
 
